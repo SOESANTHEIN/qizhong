@@ -1,0 +1,171 @@
+
+html{
+    background-color: #FFFFFF;
+    height: 1080px;
+}
+.body{
+    width: 1920px ;
+ height: 1080px;
+ margin-left: 0px;
+ margin-right: 0px;
+ margin-top: 0px;
+ margin-bottom: 0px;
+ padding: 0px;
+}
+.biaoti1{
+    font-family:PingFang TC ;
+    font-size: 101px;
+    color: #FFD2A3;
+    position: absolute;
+    top:58px;
+    left:80px;
+}
+.biaoti2{
+    font-family:PingFang TC ;
+    font-size: 101px;
+    color: #FFD2A3;
+    position: absolute;
+    top:58px;
+    left:1029px;
+}
+.xiaobiaoti1{
+    font-family: PingFang TC;
+    font-size: 35px;
+    color: #7B6550;
+    position: absolute;
+    top: 400px;
+    left: 1029px;
+    text-decoration: none;
+}
+.xiaobiaoti2{
+    font-family: PingFang TC;
+    font-size: 35px;
+    color: #7B6550;
+    position: absolute;
+    top: 671px;
+    left: 1029px;
+    text-decoration: none;
+}
+.xiaobiaoti3{
+    font-family: PingFang TC;
+    font-size: 35px;
+    color: #7B6550;
+    position: absolute;
+    top: 942px;
+    left: 1029px;
+    text-decoration: none;
+}
+.yi{
+    font-family: PingFang TC;
+    font-size: 27px;
+    color:#7B6550;
+    text-decoration: none;
+    line-height:15px;
+    position: absolute;
+    top:290px;
+    left: 58px;
+
+}
+.er{
+    font-family: PingFang TC;
+    font-size: 27px;
+    color:#7B6550;
+    text-decoration: none;
+    line-height:15px;
+    position: absolute;
+    top:601px;
+    left: 58px;
+
+
+}
+.san{
+    font-family: PingFang TC;
+    font-size: 27px;
+    color:#7B6550;
+    text-decoration: none;
+    line-height:15px;
+    position: absolute;
+    top:924px;
+    left: 58px;
+
+}
+.si{
+    font-family:PingFang TC;
+    font-size: 24px;
+    color: #FFD2A3;
+    position: absolute;
+    top:175px;
+    left:767px;
+}
+.wu{
+    font-family:PingFang TC;
+    font-size: 24px;
+    color: #FFD2A3;
+    position: absolute;
+    top:175px;
+    left:1600px;
+}
+.photo1{ 
+    position: absolute;
+    top:290px;
+    left: 657px;
+}
+.photo2{
+    position: absolute;
+    top:580px;
+    left:657px;
+}
+.photo3{
+    position: absolute;
+    top:869px;
+    left:657px;
+}
+.photo4{
+    position: absolute;
+    top:361px;
+    left:960px;
+}
+.photo5{
+    position: absolute;
+    top: 96px;
+    left: 1600px;
+}
+.photo6{
+    position: absolute;
+    top: 306px;
+    left: 1595px;
+}
+.photo7{
+    position: absolute;
+    top: 576px;
+    left: 1595px;
+}
+.photo8{
+    position: absolute;
+    top: 846px;
+    left: 1595px;
+}
+.xiaobiaoti{
+    font-family: PingFang TC;
+    font-size: 35;
+    color:#7B6550;
+}
+.three{
+    width: 1920px;
+    height: 1080px;
+    position: absolute;
+}
+.button{
+    width: 51.39;
+    height: 89.87;
+    position: absolute;
+    top:15px;
+    left:15px;
+}
+.button1{
+    width: 51.39;
+    height: 89.87;
+    position: absolute;
+    top:15px;
+    left:900px;
+}

@@ -1,0 +1,138 @@
+html{
+    background-color: #FFFFFF;
+}
+.body{
+    width: 1920px ;
+ height: 1400px;
+ margin-left: 0px;
+ margin-right: 0px;
+ margin-top: 0px;
+ margin-bottom: 0px;
+ padding: 0px;
+}
+
+.biaoti{
+    font-family:PingFang TC;
+    font-size: 101px;
+    color: #EBB579;
+    position: absolute;
+    top:-50px;
+    left:52px;
+}
+.yi{
+    font-family:PingFang TC;
+    font-size: 27px;
+    color: #7B6550;
+    position: absolute;
+    top:268px;
+    left:75px;
+    text-decoration: none;
+    line-height: 43px;
+}
+.er{
+    font-family:PingFang TC;
+    font-size: 27px;
+    color: #7B6550;
+    position: absolute;
+    top:516px;
+    left:277px;
+    text-decoration: none;
+    line-height: 43px;
+}
+.san{
+    font-family:PingFang TC;
+    font-size: 27px;
+    color: #7B6550;
+    position: absolute;
+    top:761px;
+    left:505px;
+    text-decoration: none;
+    line-height: 43px;
+}
+.si{
+    font-family:PingFang TC;
+    font-size: 27px;
+    color: #7B6550;
+    position: absolute;
+    top:223px;
+    left:782px;
+    text-decoration: none;
+    line-height: 43px;
+}
+.wu{
+    font-family:PingFang TC;
+    font-size: 27px;
+    color: #7B6550;
+    position: absolute;
+    top:516px;
+    left:1009.95px;
+    text-decoration: none;
+    line-height: 43px;
+}
+.liu{
+    font-family:PingFang TC;
+    font-size: 27px;
+    color: #7B6550;
+    position: absolute;
+    top:720px;
+    left:1247.720px;
+    text-decoration: none;
+    line-height: 43px;
+}
+.one{
+    position: absolute;
+    top:202px;
+    left:450px;
+}
+.two{
+    position: absolute;
+    top:500px;
+    left:650px;
+}
+.three{
+    position: absolute;
+    top:750px;
+    left:860px;
+}
+.four{
+    position: absolute;
+    top:195px;
+    left:1197px;
+}
+.five{
+    position: absolute;
+    top:451px;
+    left:1444px;
+}
+.six{
+    position: absolute;
+    top:699px;
+    left:1638px;
+}
+.zuihou{
+   
+    width: 1920px;
+    height: 200px;
+    background-color: #B7AB9F;
+    position: absolute;
+    top:1200px;
+    left:0px;
+}
+.neirong{
+    font-family: PingFang TC;
+    font-size: 22px;
+    color: #FFECD5;
+    text-decoration: none;
+    display: flex;
+    justify-content:center;
+    line-height: 40px;
+    
+
+}
+.button{
+    width: 51.39;
+    height: 89.87;
+    position: absolute;
+    top: 15px;
+    right:30px;
+}
